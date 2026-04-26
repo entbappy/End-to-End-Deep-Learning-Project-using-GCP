@@ -1,0 +1,3 @@
+data_ingestion_config:
+  zip_file_name: dataset.zip
+  bucket_name: sig-recog

@@ -1,0 +1,22 @@
+tqdm
+numpy
+utils
+cython
+Pillow
+PyYAML
+pandas
+cython
+Jinja2
+fastapi
+uvicorn
+ipykernel
+matplotlib
+opencv-python
+torch-summary
+dill==0.3.5.1
+albumentations
+python-multipart
+#pycocotools   #Comment when creating Docker Image
+google-cloud-storage
+apache-airflow==2.4.3
+-e .
